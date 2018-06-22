@@ -1,0 +1,10 @@
+body {
+  padding: 5rem;
+  margin: 2rem;
+  text-align: center;
+}
+
+.sections {
+  letter-spacing: 0.5em;
+  color:red;
+}
